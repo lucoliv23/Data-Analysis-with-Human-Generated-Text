@@ -1,6 +1,5 @@
 ## Case Study - Data Analysis with Human-Generated Text
 
-**Instructor: Tamara Broderick**
 
 In this document, we walk through some tips to help you with doing your own analysis on MIT EECS 
 faculty data using stochastic variational inference on LDA.
